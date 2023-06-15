@@ -1,18 +1,36 @@
-# Hi there, I'm LOVERWIN! 👋
+<h1 align='left'>
+  Hi there 👋 I'm Erwin 👨‍💻
+</h1>
 
-![LOVERWIN](https://your-image-url.com/lorem-ipsum)
+<p align='left'>
+  <strong>soy estudiante de ing. en desarrollo de software</strong>.
+</p>
 
-Welcome to my GitHub profile! I'm passionate about coding and exploring new technologies. Let me share a bit about myself:
 
-- 🔭 I’m currently working on exciting projects.
-- 🌱 I’m continuously learning and improving my skills.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about anything related to programming and technology.
-- 📫 How to reach me: [lorem@example.com](mailto:lorem@example.com).
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love playing guitar in my free time.
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LOVERWIN&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-Feel free to explore my repositories and contributions. Don't hesitate to connect with me if you have any questions or suggestions.
+¡Bienvenido(a) a mi perfil de GitHub! Soy un entusiasta del desarrollo de software.
 
-Happy coding! 😊
+## Sobre mí
+Soy un estudiante con poca experiencia. Me encanta aprender 
+nuevas tecnologías y estar al tanto de las últimas tendencias en el mundo del desarrollo.
+
+
+## Habilidades
+
+- Desarrollo backend: Java,C.
+- Bases de datos: SQL.
+
+## Cómo contactarme
+
+Puedes contactarme a través de los siguientes medios:
+
+- Email: erwin.delgado79@unach.mx
+
+¡No dudes en comunicarte conmigo si tienes alguna pregunta, propuesta de colaboración o simplemente quieres charlar!
+
+<!-- Puedes agregar más secciones o personalizar el README según tus preferencias y necesidades -->
+
 
