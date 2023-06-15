@@ -18,10 +18,17 @@ Soy un estudiante con poca experiencia. Me encanta aprender
 nuevas tecnologías y estar al tanto de las últimas tendencias en el mundo del desarrollo.
 
 
-## Habilidades
+## Habilidades  💻
 
-- Desarrollo backend: Java,C.
-- Bases de datos: SQL.
+<p align='left'>
+  
+  - Bases de datos: <br/><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
+  - Desarrollo backend: <br/><br/>
+  <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+ 
+ 
+</p>
 
 ## Cómo contactarme
 
