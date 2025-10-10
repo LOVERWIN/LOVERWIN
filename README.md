@@ -1,1 +1,41 @@
-<div align="center">👋 ¡Hola, soy Erwin! 👨‍💻Estudiante de Ingeniería en Desarrollo y Diseño de Software<p align="center"><em>Apasionado por la tecnología y el aprendizaje continuo. Siempre en busca de nuevos retos para construir soluciones de software innovadoras y eficientes.</em></p></div>🚀 Sobre Mí<p>Soy un estudiante de desarrollo de software con un gran interés en el desarrollo backend y la gestión de bases de datos. Me encanta transformar ideas complejas en código funcional y estoy constantemente explorando nuevas tecnologías para ampliar mis habilidades.</p>🛠️ Habilidades y Tecnologías<p align="center"><strong>Lenguajes de Programación</strong><a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a></p><p align="center"><strong>Desarrollo Backend</strong><a href="#"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" /></a></p><p align="center"><strong>Bases de Datos</strong><a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a></p><p align="center"><strong>Herramientas y Control de Versiones</strong></p>📊 Mis Estadísticas de GitHub<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LOVERWIN&show_icons=true&count_private=true&theme=dark" width="400"></a><a href="#"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLOVERWIN%26layout%3Dcompact%26theme%3Ddark" width="400"></a></p>📫 ¿Conectamos?<p align="center">¡No dudes en contactarme! Estoy abierto a colaborar en proyectos interesantes y siempre dispuesto a aprender de otros desarrolladores.<a href="mailto:erwin.delgado79@unach.mx"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+<h1 align='left'>
+  Hi there 👋 I'm Erwin 👨‍💻
+</h1>
+
+<p align='left'>
+  <strong>soy estudiante de ing. en desarrollo de software</strong>.
+</p>
+
+
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LOVERWIN&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+¡Bienvenido(a) a mi perfil de GitHub! Soy un entusiasta del desarrollo de software.
+
+## Sobre mí
+Soy un estudiante con poca experiencia. Me encanta aprender 
+nuevas tecnologías y estar al tanto de las últimas tendencias en el mundo del desarrollo.
+
+
+## Habilidades  💻
+
+<p align='left'>
+  
+  - Bases de datos: <br/><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
+  - Desarrollo backend: <br/><br/>
+  <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+ 
+ 
+</p>
+
+## Cómo contactarme
+
+Puedes contactarme a través de los siguientes medios:
+
+- Email: erwin.delgado79@unach.mx
+
+¡No dudes en comunicarte conmigo si tienes alguna pregunta, propuesta de colaboración o simplemente quieres charlar!
+
+<!-- Puedes agregar más secciones o personalizar el README según tus preferencias y necesidades -->
