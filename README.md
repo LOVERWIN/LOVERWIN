@@ -46,7 +46,6 @@ nuevas tecnologías y estar al tanto de las últimas tendencias en el mundo del 
   <strong>Herramientas y Control de Versiones:</strong><br/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
 </p>
  
  
